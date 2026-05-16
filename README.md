@@ -15,3 +15,6 @@
 Доволно ни се 3 тест случаи, за да се постигне every statement методата.
 <img width="838" height="378" alt="image" src="https://github.com/user-attachments/assets/d1130c75-eff3-4eff-9c74-e2cf20bfc2af" />
 
+#### Тест случаи според критериумот Every branch за методата borrowBook
+Доволно ни се 4 тест случаи за да се постигне every branch методата.
+<img width="1771" height="494" alt="image" src="https://github.com/user-attachments/assets/3172d30f-9f50-4a13-a571-02dfb43140b1" />
