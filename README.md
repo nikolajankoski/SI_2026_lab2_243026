@@ -11,10 +11,21 @@
 
 Цикломатската комплексност за borrowBook е 5, истата ја добив преку формулата P+1, каде што P е бројот на предикатни јазли. Во случајoв P=4, па цикломатската комплексност изнесува 5. Имено истовремено може да се добие такашто ќе ги изброиме бројот на региони R, во случајов ни се 5 региони.
 
-#### Тест случаи според критериумот Every statement за методата searchBookByTitle
+### Тест случаи според критериумот Every statement за методата searchBookByTitle
 Доволно ни се 3 тест случаи, за да се постигне every statement методата.
 <img width="838" height="378" alt="image" src="https://github.com/user-attachments/assets/d1130c75-eff3-4eff-9c74-e2cf20bfc2af" />
 
-#### Тест случаи според критериумот Every branch за методата borrowBook
+### Тест случаи според критериумот Every branch за методата borrowBook
 Доволно ни се 4 тест случаи за да се постигне every branch методата.
 <img width="1771" height="494" alt="image" src="https://github.com/user-attachments/assets/3172d30f-9f50-4a13-a571-02dfb43140b1" />
+
+### Тест случаи според критериумот Multiple condition
+searchBookByTitle
+<img width="1372" height="117" alt="image" src="https://github.com/user-attachments/assets/32807ac5-cb99-4bf5-a87f-ea1bdc599918" />
+borrowBook
+<img width="1372" height="117" alt="image" src="https://github.com/user-attachments/assets/9c82761c-0825-4457-9ffe-f936a37d503a" />
+
+И за двата метода доволни ни се 3 тест случаеви.
+
+
+
